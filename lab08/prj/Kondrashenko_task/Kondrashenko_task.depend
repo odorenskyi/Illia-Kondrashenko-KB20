@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618009883 source:c:\programming\projects\1111\main.cpp
+	<iostream>
+	"moduleskondrashenko.h"
+	<locale.h>
+	<windows.h>
+

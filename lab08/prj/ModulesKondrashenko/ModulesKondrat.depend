@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618002907 source:c:\programming\projects\moduleskondrat\main.cpp
+	<cmath>
+	<iostream>
+
